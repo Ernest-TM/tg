@@ -22,8 +22,8 @@ With the support of the HTML format
 ( msg & Reply )
 
 *******************
-*   ReZa Hextor   *
-*  @HEXTOR_CH     *
+*   Ernest TM     *
+*  @ERNEST_TM     *
 *******************
 */
 
